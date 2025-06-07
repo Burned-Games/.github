@@ -93,7 +93,7 @@ We are a class of university students at <a href="https://www.citm.upc.edu/">CIT
     Alexia Palacín (Character Artist): <a href="https://github.com/Apb8">Apb8</a>
   </li>
   <li>
-    Maria Perarnau Turmo (Character Artist): <a href="https://github.com/MariaPerarnau">MariaPerarnau</a>
+    Maria Perarnau (Character Artist): <a href="https://github.com/MariaPerarnau">MariaPerarnau</a>
   </li>
   <li>
     Sergio Corona (Environment Artist): <a href="https://github.com/SEREGERO00">SEREGERO00</a>
